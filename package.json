@@ -1,7 +1,7 @@
 {
   "name": "factory-girl",
   "description": "A factory library for Node.js and JavaScript inspired by factory_girl",
-  "main": "./src/index",
+  "main": "./dist/index",
   "author": [
     "@aexmachina",
     "@chetanism"
@@ -69,9 +69,10 @@
     "mocha": "^2.5.3",
     "mocha-eslint": "^2.1.1",
     "mongoose": "^4.5.4",
+    "objection": "^0.9.2",
+    "redux-orm": "^0.9.0-rc.3",
     "rollup": "^0.27.0",
     "rollup-plugin-babel": "^2.5.0",
-    "redux-orm": "^0.9.0-rc.3",
     "sequelize": "^3.24.0",
     "should": "^6.0.3",
     "sinon": "^2.0.0-pre",
